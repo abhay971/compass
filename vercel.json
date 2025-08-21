@@ -15,8 +15,5 @@
       "source": "/(.*)",
       "destination": "/client/build/$1"
     }
-  ],
-  "env": {
-    "DATABASE_URL": "@database_url"
-  }
+  ]
 }
